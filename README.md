@@ -1,7 +1,3 @@
-Sure, here's a README file for the backend part of your project:
-
----
-
 # User Task Management App Backend
 
 Welcome to the backend repository of the User Task Management App! This repository contains the backend codebase for our web application built with MongoDB, Express.js, and Node.js.
